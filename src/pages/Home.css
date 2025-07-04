@@ -1,0 +1,47 @@
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100%;
+    background: url('a.jpg') no-repeat center center fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #3b85d0;         /* Font color: dark gray */
+    font-size: 25px;        /* Increases base font size */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+
+nav a {
+    color: #ffffff;
+    font-weight: bold;
+    
+}
+.app-container {
+    padding: 20px;
+   
+    max-width: 960px;
+    background: rgba(134, 129, 220, 0.438);
+    margin-top: 20px;
+    box-shadow: 0 8px 20px rgb(255, 255, 255);
+    justify-content: center;
+    color: #480537;        /* Navy blue text */
+    font-size: 30px; 
+  }
+.home-container {
+    color: #070001;        /* Elegant dark blue font */
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.home-container p:first-child {
+    font-size: 38px;       /* Bigger welcome text */
+    font-weight: bold;
+    color: #051501;
+}
+
+
