@@ -11,11 +11,9 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+# Social Wall App
 
-
-# Social Wall Flutter App
-
-This is a **Social Media Wall** application built using **Flutter** for the frontend . Users can post status updates with images, like and comment on posts, and manage their own posts including editing and deleting.
+This is a **Social Media Wall** application built using **React** for the frontend . Users can post status updates with images, like and comment on posts, and manage their own posts including editing and deleting.
 
 ## 🚀 Features
 
@@ -27,10 +25,8 @@ This is a **Social Media Wall** application built using **Flutter** for the fron
 - 🧪 Responsive UI with Material Design
 - 🎨 Custom 3D and Standard CSS-like Styling
 
-## 🛠️ Tech Stack
-
-- **Frontend**: Flutter
-
+Output:
+![image alt](https://github.com/Rachana16-2004/Social-Wall-frontend/blob/master/WhatsApp%20Image%202025-06-19%20at%2022.35.40.jpeg?raw=true)
 ## 📦 Folder Structure
 
 lib/
