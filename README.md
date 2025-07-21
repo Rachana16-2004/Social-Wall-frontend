@@ -40,11 +40,6 @@ lib/
 ├── services/ # Supabase Integration Logic
 └── main.dart # App Entry Point
 
-
-
-## 🧑‍💻 Getting Started
-
 ### Run the App
 
-```bash
 npm run dev
