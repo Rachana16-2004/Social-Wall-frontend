@@ -26,6 +26,8 @@ This is a **Social Media Wall** application built using **React** for the fronte
 - 🎨 Custom 3D and Standard CSS-like Styling
 
 Output:
+![image alt](
+
 ![image alt](https://github.com/Rachana16-2004/Social-Wall-frontend/blob/master/WhatsApp%20Image%202025-06-19%20at%2022.35.40.jpeg?raw=true)
 ## 📦 Folder Structure
 
